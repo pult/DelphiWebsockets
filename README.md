@@ -1,5 +1,5 @@
 # DelphiWebsockets
-Websockets and Socket.io for Delphi over Indy network library
+Websockets and Socket.io for Delphi XE3 Up over Indy network library
 
 forked from "AndreMussche DelphiWebsockets" : https://github.com/andremussche/DelphiWebsockets
 
