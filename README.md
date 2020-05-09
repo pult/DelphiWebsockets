@@ -26,3 +26,5 @@ uses
 
   ws.Disconnect;
 ```
+
+<img align="left" src="https://github.com/pult/DelphiWebsockets/blob/pult/Samples/002-privat-bank-pos-api/pClientWebSocketDemo.png"/>
