@@ -3,6 +3,8 @@ Websockets and Socket.io for Delphi XE3 Up over Indy network library
 
 forked from "AndreMussche DelphiWebsockets" : https://github.com/andremussche/DelphiWebsockets
 
+![](https://tokei.rs/b1/github/pult/DelphiWebsockets?category=code) ![](https://tokei.rs/b1/github/pult/DelphiWebsockets?category=files)
+
 ### Dependencies
 - superobject: https://github.com/pult/SuperObject.Delphi
 
